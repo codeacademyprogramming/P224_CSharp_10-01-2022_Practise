@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\bin\Debug\netcoreapp3.1\P224ClassworkTask1.exe
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\bin\Debug\netcoreapp3.1\P224ClassworkTask1.deps.json
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\bin\Debug\netcoreapp3.1\P224ClassworkTask1.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\bin\Debug\netcoreapp3.1\P224ClassworkTask1.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\bin\Debug\netcoreapp3.1\P224ClassworkTask1.dll
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\bin\Debug\netcoreapp3.1\P224ClassworkTask1.pdb
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\obj\Debug\netcoreapp3.1\P224ClassworkTask1.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\obj\Debug\netcoreapp3.1\P224ClassworkTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\obj\Debug\netcoreapp3.1\P224ClassworkTask1.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\obj\Debug\netcoreapp3.1\P224ClassworkTask1.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\obj\Debug\netcoreapp3.1\P224ClassworkTask1.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\obj\Debug\netcoreapp3.1\P224ClassworkTask1.dll
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\obj\Debug\netcoreapp3.1\P224ClassworkTask1.pdb
+C:\Users\memme\Desktop\P224\Task\P224ClassworkTask1\P224ClassworkTask1\obj\Debug\netcoreapp3.1\P224ClassworkTask1.genruntimeconfig.cache
